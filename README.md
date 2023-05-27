@@ -1,5 +1,5 @@
 ## SKILLS 😊
-![JAVA](https://img.shields.io/badge/Pythin-#3776AB?&style=for-the-badge&logo=Python&logoColor=white)
+![Pytohn](https://img.shields.io/badge/Pythin-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
 
 <!---
 HyunJJJUN/HyunJJJUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
