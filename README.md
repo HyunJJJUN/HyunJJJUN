@@ -34,9 +34,6 @@
 📊 **GitHub Stats**
 <p>
 <a href="https://github.com/HyunJJJUN">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyunJJJUN&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/HyunJJJUN">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJJJUN&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 </p>
