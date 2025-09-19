@@ -32,11 +32,11 @@
 ---
 
 📊 **GitHub Stats**
-<p>
+
 <a href="https://github.com/HyunJJJUN">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyunJJJUN&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
-</p>
+
 
 ✨ *꾸준히 성장하는 개발자를 목표로 합니다!* ✨
   
